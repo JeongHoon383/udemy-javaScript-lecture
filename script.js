@@ -1,12 +1,7 @@
-const measureKelvin = function () {
-  const measurement = {
-    type: "temp",
-    unit: "celsius",
-    value: prompt("Degrees celsius:"),
-  };
+let age = 25;
 
-  const Kelvin = measurement.value + 273;
-  return Kelvin;
-};
+console.log(age); // 25
 
-console.log(measureKelvin());
+age = 30;
+
+console.log(age); // 30
