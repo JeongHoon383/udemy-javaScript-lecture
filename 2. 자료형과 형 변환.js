@@ -40,4 +40,4 @@ let numberC = "133";
 console.log(numberA * numberB); // 24(숫자열) -> 자바스크립트엔진이 암묵적으로 문자열을 숫자열로 바꿈 묵시적 형변환
 console.log(numberA + numberB); // 122(문자열) ->
 console.log(numberA + parseInt(numberB)); // 14(숫자열) -> 의도적으로 형 변환 - 명시적 형 변환
-console.log(numberC + numberA);
+console.log(numberC + numberA); // 13312(문자열) -> 문자, 숫자 순서 상관없이 앞에 있는거(numberC) 뒤에 문자 또는 숫자를 붙임
