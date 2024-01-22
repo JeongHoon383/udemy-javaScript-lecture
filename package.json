@@ -2,7 +2,7 @@
   "name": "udemy-lecture",
   "version": "1.0.0",
   "description": "",
-  "main": "1. 변수와 상수.js",
+  "main": "4. 조건문.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
