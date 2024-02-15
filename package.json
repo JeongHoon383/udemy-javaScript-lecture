@@ -2,7 +2,7 @@
   "name": "udemy-lecture",
   "version": "1.0.0",
   "description": "",
-  "main": "16. 비 구조화 할당.js",
+  "main": "18. 동기 & 비동기.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
